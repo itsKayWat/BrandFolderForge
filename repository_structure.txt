@@ -1,0 +1,12 @@
+BrandFolderForge/
+│
+├── create_brand_directory.py    # Main script for directory generation
+├── requirements.py             # Requirements installation script
+├── README.md                   # Project documentation and usage guide
+├── LICENSE                     # MIT License file
+│
+├── examples/                   # Example use cases and outputs
+│   └── sample_structure.md     # Sample directory structure visualization
+│
+└── tests/                      # Test files (future implementation)
+    └── test_directory_creation.py
